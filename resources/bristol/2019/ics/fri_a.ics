@@ -1,0 +1,420 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://github.com/grahamcarlyle/bin-day
+NAME:Bristol bin schedule: FRI/A
+DESCRIPTION:Schedule PDF http://www.bristolwastecompany.co.uk/media/filer_p
+ ublic/ff/fd/fffdc487-1e86-4fb8-b414-0678a00009f5/fria19.pdf
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181207
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2018-12-07-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181214
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2018-12-14-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181221
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2018-12-21-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181231
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2018-12-31-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190107
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-01-07-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190112
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-01-12-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190118
+SUMMARY:Recycling and waste\, Christmas tree
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n\, Christmas tree
+TRANSP:TRANSPARENT
+UID:2019-01-18-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190125
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-01-25-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190201
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-02-01-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190208
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-02-08-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190215
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-02-15-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190222
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-02-22-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190301
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-03-01-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190308
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-03-08-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190315
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-03-15-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190322
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-03-22-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190329
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-03-29-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190405
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-04-05-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190412
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-04-12-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190419
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-04-19-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190426
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-04-26-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190503
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-05-03-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190510
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-05-10-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190517
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-05-17-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190524
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-05-24-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190531
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-05-31-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190607
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-06-07-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190614
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-06-14-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190621
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-06-21-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190628
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-06-28-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190705
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-07-05-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190712
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-07-12-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190719
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-07-19-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190726
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-07-26-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190802
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-08-02-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190809
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-08-09-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190816
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-08-16-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190823
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-08-23-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190830
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-08-30-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190906
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-09-06-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190913
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-09-13-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190920
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-09-20-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20190927
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-09-27-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191004
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-10-04-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191011
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-10-11-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191018
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-10-18-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191025
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-10-25-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191101
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-11-01-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191108
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-11-08-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191115
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-11-15-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191122
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-11-22-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191129
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-11-29-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191206
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-12-06-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191213
+SUMMARY:Recycling
+DESCRIPTION:Green box\, Black box\, Brown food waste bin
+TRANSP:TRANSPARENT
+UID:2019-12-13-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20191220
+SUMMARY:Recycling and waste
+DESCRIPTION:Green box\, Black box\, Brown food waste bin\, Black wheelie bi
+ n
+TRANSP:TRANSPARENT
+UID:2019-12-20-FRI/A-bristol-bin-day@grahamcarlyle.com
+END:VEVENT
+END:VCALENDAR
