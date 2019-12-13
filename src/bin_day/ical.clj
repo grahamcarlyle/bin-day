@@ -63,13 +63,13 @@
           (spit filepath (.write calendar))))
       schedules)))
 
-(def ics-resources "bristol/2019/ics")
+(defn ics-resources [year] (str "bristol/" year "/ics"))
 
 (defn schedules-to-calendars
-  ([] (schedules-to-calendars (File. (.toURI (jio/resource ics-resources)))))
-  ([dest-dir] (write-calendars (schedule/read-schedules) dest-dir)))
+  ([year] (schedules-to-calendars (File. (.toURI (jio/resource (ics-resources year))))))
+  ([year dest-dir] (write-calendars (schedule/read-schedules year) dest-dir)))
 
 (comment
   (build-calendar (:monday-b (schedule/read-schedules)))
-  (schedules-to-calendars)
+  (schedules-to-calendars 2019)
   )

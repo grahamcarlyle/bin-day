@@ -38,14 +38,15 @@
              :uid "2019-05-23-TUE/B-bristol-bin-day@grahamcarlyle.com"}]))))
 
 (deftest bless-schedules
-  (let [temp-dir (.toFile (Files/createTempDirectory "bin-day-ics-" (into-array FileAttribute [])))
-        _ (ical/schedules-to-calendars temp-dir)
+  (let [year 2019
+        temp-dir (.toFile (Files/createTempDirectory "bin-day-ics-" (into-array FileAttribute [])))
+        _ (ical/schedules-to-calendars year temp-dir)
         generated-ics-files (filter #(.isFile %) (file-seq temp-dir))]
     (dorun
       (map (fn [generated-ics-file]
              (let [generated-ics (slurp generated-ics-file)
                    ics-file-name (.getName generated-ics-file)
-                   blessed-ics-resource (jio/resource (.getPath (jio/file ical/ics-resources ics-file-name)))
+                   blessed-ics-resource (jio/resource (.getPath (jio/file (ical/ics-resources year) ics-file-name)))
                    blessed-ics (slurp blessed-ics-resource)]
                (is (= generated-ics blessed-ics) (str "mismatch for " ics-file-name))
                (jio/delete-file generated-ics-file)))
