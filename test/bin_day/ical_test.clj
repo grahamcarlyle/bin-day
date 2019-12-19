@@ -38,7 +38,7 @@
              :uid "2019-05-23-TUE/B-bristol-bin-day@grahamcarlyle.com"}]))))
 
 (deftest bless-schedules
-  (let [year 2019
+  (let [year 2020
         temp-dir (.toFile (Files/createTempDirectory "bin-day-ics-" (into-array FileAttribute [])))
         _ (ical/schedules-to-calendars year temp-dir)
         generated-ics-files (filter #(.isFile %) (file-seq temp-dir))]

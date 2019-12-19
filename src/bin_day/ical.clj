@@ -66,7 +66,7 @@
 (defn ics-resources [year] (str "bristol/" year "/ics"))
 
 (defn schedules-to-calendars
-  ([year] (schedules-to-calendars (File. (.toURI (jio/resource (ics-resources year))))))
+  ([year] (schedules-to-calendars year (File. (.toURI (jio/resource (ics-resources year))))))
   ([year dest-dir] (write-calendars (schedule/read-schedules year) dest-dir)))
 
 (comment
